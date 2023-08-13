@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://app.gemoo.com/share/image-annotation/549407746186518528?codeId=PY4Ao2nZ2E0do&origin=imageurlgenerator"></div>
+<img src="[https://app.gemoo.com/share/image-annotation/549407746186518528?codeId=PY4Ao2nZ2E0do&origin=imageurlgenerator](https://github.com/valeriiastiba/valeriiastiba/blob/main/About%20(1).png)"></div>
   
   
 
