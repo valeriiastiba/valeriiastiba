@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/1_Az3uWIbmHCgBLdmrzaC3IF5T7Z89Y26/view" align="center" style="width: 100%" />
-</div>  
+<img src="https://drive.google.com/file/d/1_Az3uWIbmHCgBLdmrzaC3IF5T7Z89Y26/view"></div>
+  
   
 
 ### <div align="center">I'm Valeriia Stiba, Software QA Automation Engineer 👨‍💻 </div>  
