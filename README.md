@@ -4,7 +4,7 @@
   
   
 
-### <div align="center">I'm Valeriia Stiba, Software QA Automation Engineer 👨‍💻 </div>  
+### <div align="center">I'm Valeriia Stiba, Software QA Automation Engineer 👩🏼‍💻 </div>  
   
 
 - 💡 Deep knowledge of the Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), including techniques like Agile and Waterfall and Scaled Agile Framework (SAFe).  
@@ -22,7 +22,7 @@
 - 📁 Hands-on experience in the preparation of Test Cases, Test Reports, and Requirement Traceability Matrix.  
   
 
-- 📜 Extensive knowledge in understanding Business Requirements Document, Functional Requirements Document, and Software Requirement Specifications.  
+- 📋 Extensive knowledge in understanding Business Requirements Document, Functional Requirements Document, and Software Requirement Specifications.  
   
 
 <br/>  
