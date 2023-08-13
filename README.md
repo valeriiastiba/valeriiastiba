@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[[https://app.gemoo.com/share/image-annotation/549407746186518528?codeId=PY4Ao2nZ2E0do&origin=imageurlgenerator](https://github.com/valeriiastiba/valeriiastiba/blob/main/About%20(1).png)](https://github.com/valeriiastiba/valeriiastiba/blob/22125b417bb10168ac3b0bcab67947767393bf2a/About%20(1).png)"></div>
+<img src="[[[https://app.gemoo.com/share/image-annotation/549407746186518528?codeId=PY4Ao2nZ2E0do&origin=imageurlgenerator](https://github.com/valeriiastiba/valeriiastiba/blob/main/About%20(1).png)](https://github.com/valeriiastiba/valeriiastiba/blob/22125b417bb10168ac3b0bcab67947767393bf2a/About%20(1).png)](https://github.com/valeriiastiba/valeriiastiba/blob/main/About%20(1).png)"></div>
   
   
 
