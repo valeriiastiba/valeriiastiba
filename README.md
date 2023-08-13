@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="About (1).jpg">
+</div>
   
   
 
